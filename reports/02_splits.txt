@@ -1,0 +1,1072 @@
+
+
+
+
+interpolation
+================================================================================
+
+
+
+Split 0
+------------------------------------------------------------
+
+
+MN
+----------------------------------------
+Train %  91.86
+Test %  8.14
+------------------------------
+Solutes:  42
+Solvents:  137
+------------------------------
+Solute interpolation:  34
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  34
+Solvent extrapolation:  0
+------------------------------
+
+
+MW
+----------------------------------------
+Train %  90.19
+Test %  9.81
+------------------------------
+Solutes:  28
+Solvents:  122
+------------------------------
+Solute interpolation:  26
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  34
+Solvent extrapolation:  0
+------------------------------
+
+
+PDI
+----------------------------------------
+Train %  90.64
+Test %  9.36
+------------------------------
+Solutes:  22
+Solvents:  107
+------------------------------
+Solute interpolation:  20
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  24
+Solvent extrapolation:  0
+------------------------------
+
+
+
+Split 1
+------------------------------------------------------------
+
+
+MN
+----------------------------------------
+Train %  87.95
+Test %  12.05
+------------------------------
+Solutes:  42
+Solvents:  137
+------------------------------
+Solute interpolation:  32
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  38
+Solvent extrapolation:  0
+------------------------------
+
+
+MW
+----------------------------------------
+Train %  87.37
+Test %  12.63
+------------------------------
+Solutes:  28
+Solvents:  122
+------------------------------
+Solute interpolation:  26
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  37
+Solvent extrapolation:  0
+------------------------------
+
+
+PDI
+----------------------------------------
+Train %  91.3
+Test %  8.7
+------------------------------
+Solutes:  22
+Solvents:  107
+------------------------------
+Solute interpolation:  19
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  23
+Solvent extrapolation:  0
+------------------------------
+
+
+
+Split 2
+------------------------------------------------------------
+
+
+MN
+----------------------------------------
+Train %  91.0
+Test %  9.0
+------------------------------
+Solutes:  42
+Solvents:  137
+------------------------------
+Solute interpolation:  34
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  35
+Solvent extrapolation:  0
+------------------------------
+
+
+MW
+----------------------------------------
+Train %  91.93
+Test %  8.07
+------------------------------
+Solutes:  28
+Solvents:  122
+------------------------------
+Solute interpolation:  26
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  31
+Solvent extrapolation:  0
+------------------------------
+
+
+PDI
+----------------------------------------
+Train %  92.68
+Test %  7.32
+------------------------------
+Solutes:  22
+Solvents:  107
+------------------------------
+Solute interpolation:  19
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  24
+Solvent extrapolation:  0
+------------------------------
+
+
+
+Split 3
+------------------------------------------------------------
+
+
+MN
+----------------------------------------
+Train %  89.06
+Test %  10.94
+------------------------------
+Solutes:  42
+Solvents:  137
+------------------------------
+Solute interpolation:  33
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  37
+Solvent extrapolation:  0
+------------------------------
+
+
+MW
+----------------------------------------
+Train %  90.23
+Test %  9.77
+------------------------------
+Solutes:  28
+Solvents:  122
+------------------------------
+Solute interpolation:  27
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  35
+Solvent extrapolation:  0
+------------------------------
+
+
+PDI
+----------------------------------------
+Train %  91.66
+Test %  8.34
+------------------------------
+Solutes:  22
+Solvents:  107
+------------------------------
+Solute interpolation:  20
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  24
+Solvent extrapolation:  0
+------------------------------
+
+
+
+Split 4
+------------------------------------------------------------
+
+
+MN
+----------------------------------------
+Train %  92.58
+Test %  7.42
+------------------------------
+Solutes:  42
+Solvents:  137
+------------------------------
+Solute interpolation:  34
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  41
+Solvent extrapolation:  0
+------------------------------
+
+
+MW
+----------------------------------------
+Train %  91.02
+Test %  8.98
+------------------------------
+Solutes:  28
+Solvents:  122
+------------------------------
+Solute interpolation:  26
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  37
+Solvent extrapolation:  0
+------------------------------
+
+
+PDI
+----------------------------------------
+Train %  89.92
+Test %  10.08
+------------------------------
+Solutes:  22
+Solvents:  107
+------------------------------
+Solute interpolation:  20
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  29
+Solvent extrapolation:  0
+------------------------------
+
+
+
+Split 5
+------------------------------------------------------------
+
+
+MN
+----------------------------------------
+Train %  91.03
+Test %  8.97
+------------------------------
+Solutes:  42
+Solvents:  137
+------------------------------
+Solute interpolation:  34
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  37
+Solvent extrapolation:  0
+------------------------------
+
+
+MW
+----------------------------------------
+Train %  90.16
+Test %  9.84
+------------------------------
+Solutes:  28
+Solvents:  122
+------------------------------
+Solute interpolation:  26
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  36
+Solvent extrapolation:  0
+------------------------------
+
+
+PDI
+----------------------------------------
+Train %  90.64
+Test %  9.36
+------------------------------
+Solutes:  22
+Solvents:  107
+------------------------------
+Solute interpolation:  20
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  26
+Solvent extrapolation:  0
+------------------------------
+
+
+
+Split 6
+------------------------------------------------------------
+
+
+MN
+----------------------------------------
+Train %  91.98
+Test %  8.02
+------------------------------
+Solutes:  42
+Solvents:  137
+------------------------------
+Solute interpolation:  34
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  38
+Solvent extrapolation:  0
+------------------------------
+
+
+MW
+----------------------------------------
+Train %  90.19
+Test %  9.81
+------------------------------
+Solutes:  28
+Solvents:  122
+------------------------------
+Solute interpolation:  26
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  33
+Solvent extrapolation:  0
+------------------------------
+
+
+PDI
+----------------------------------------
+Train %  92.5
+Test %  7.5
+------------------------------
+Solutes:  22
+Solvents:  107
+------------------------------
+Solute interpolation:  20
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  24
+Solvent extrapolation:  0
+------------------------------
+
+
+
+Split 7
+------------------------------------------------------------
+
+
+MN
+----------------------------------------
+Train %  89.77
+Test %  10.23
+------------------------------
+Solutes:  42
+Solvents:  137
+------------------------------
+Solute interpolation:  33
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  35
+Solvent extrapolation:  0
+------------------------------
+
+
+MW
+----------------------------------------
+Train %  90.84
+Test %  9.16
+------------------------------
+Solutes:  28
+Solvents:  122
+------------------------------
+Solute interpolation:  26
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  30
+Solvent extrapolation:  0
+------------------------------
+
+
+PDI
+----------------------------------------
+Train %  89.74
+Test %  10.26
+------------------------------
+Solutes:  22
+Solvents:  107
+------------------------------
+Solute interpolation:  21
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  25
+Solvent extrapolation:  0
+------------------------------
+
+
+
+Split 8
+------------------------------------------------------------
+
+
+MN
+----------------------------------------
+Train %  89.77
+Test %  10.23
+------------------------------
+Solutes:  42
+Solvents:  137
+------------------------------
+Solute interpolation:  33
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  34
+Solvent extrapolation:  0
+------------------------------
+
+
+MW
+----------------------------------------
+Train %  91.93
+Test %  8.07
+------------------------------
+Solutes:  28
+Solvents:  122
+------------------------------
+Solute interpolation:  27
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  35
+Solvent extrapolation:  0
+------------------------------
+
+
+PDI
+----------------------------------------
+Train %  88.6
+Test %  11.4
+------------------------------
+Solutes:  22
+Solvents:  107
+------------------------------
+Solute interpolation:  20
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  25
+Solvent extrapolation:  0
+------------------------------
+
+
+
+Split 9
+------------------------------------------------------------
+
+
+MN
+----------------------------------------
+Train %  88.39
+Test %  11.61
+------------------------------
+Solutes:  42
+Solvents:  137
+------------------------------
+Solute interpolation:  33
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  35
+Solvent extrapolation:  0
+------------------------------
+
+
+MW
+----------------------------------------
+Train %  89.03
+Test %  10.97
+------------------------------
+Solutes:  28
+Solvents:  122
+------------------------------
+Solute interpolation:  27
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  33
+Solvent extrapolation:  0
+------------------------------
+
+
+PDI
+----------------------------------------
+Train %  90.82
+Test %  9.18
+------------------------------
+Solutes:  22
+Solvents:  107
+------------------------------
+Solute interpolation:  21
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  29
+Solvent extrapolation:  0
+------------------------------
+
+
+
+
+extrapolation
+================================================================================
+
+
+
+Split 0
+------------------------------------------------------------
+
+
+MN
+----------------------------------------
+Train %  88.15
+Test %  11.85
+------------------------------
+Solutes:  42
+Solvents:  137
+------------------------------
+Solute interpolation:  29
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  14
+------------------------------
+
+
+MW
+----------------------------------------
+Train %  92.94
+Test %  7.06
+------------------------------
+Solutes:  28
+Solvents:  122
+------------------------------
+Solute interpolation:  22
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  13
+------------------------------
+
+
+PDI
+----------------------------------------
+Train %  80.13
+Test %  19.87
+------------------------------
+Solutes:  22
+Solvents:  107
+------------------------------
+Solute interpolation:  20
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  11
+------------------------------
+
+
+
+Split 1
+------------------------------------------------------------
+
+
+MN
+----------------------------------------
+Train %  94.71
+Test %  5.29
+------------------------------
+Solutes:  42
+Solvents:  137
+------------------------------
+Solute interpolation:  18
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  14
+------------------------------
+
+
+MW
+----------------------------------------
+Train %  88.45
+Test %  11.55
+------------------------------
+Solutes:  28
+Solvents:  122
+------------------------------
+Solute interpolation:  26
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  13
+------------------------------
+
+
+PDI
+----------------------------------------
+Train %  87.88
+Test %  12.12
+------------------------------
+Solutes:  22
+Solvents:  107
+------------------------------
+Solute interpolation:  18
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  11
+------------------------------
+
+
+
+Split 2
+------------------------------------------------------------
+
+
+MN
+----------------------------------------
+Train %  94.71
+Test %  5.29
+------------------------------
+Solutes:  42
+Solvents:  137
+------------------------------
+Solute interpolation:  20
+Solute extrapolation:  1
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  14
+------------------------------
+
+
+MW
+----------------------------------------
+Train %  93.3
+Test %  6.7
+------------------------------
+Solutes:  28
+Solvents:  122
+------------------------------
+Solute interpolation:  21
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  13
+------------------------------
+
+
+PDI
+----------------------------------------
+Train %  90.46
+Test %  9.54
+------------------------------
+Solutes:  22
+Solvents:  107
+------------------------------
+Solute interpolation:  15
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  11
+------------------------------
+
+
+
+Split 3
+------------------------------------------------------------
+
+
+MN
+----------------------------------------
+Train %  86.61
+Test %  13.39
+------------------------------
+Solutes:  42
+Solvents:  137
+------------------------------
+Solute interpolation:  32
+Solute extrapolation:  1
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  14
+------------------------------
+
+
+MW
+----------------------------------------
+Train %  82.45
+Test %  17.55
+------------------------------
+Solutes:  28
+Solvents:  122
+------------------------------
+Solute interpolation:  24
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  13
+------------------------------
+
+
+PDI
+----------------------------------------
+Train %  87.15
+Test %  12.85
+------------------------------
+Solutes:  22
+Solvents:  107
+------------------------------
+Solute interpolation:  14
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  11
+------------------------------
+
+
+
+Split 4
+------------------------------------------------------------
+
+
+MN
+----------------------------------------
+Train %  86.97
+Test %  13.03
+------------------------------
+Solutes:  42
+Solvents:  137
+------------------------------
+Solute interpolation:  22
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  14
+------------------------------
+
+
+MW
+----------------------------------------
+Train %  88.49
+Test %  11.51
+------------------------------
+Solutes:  28
+Solvents:  122
+------------------------------
+Solute interpolation:  20
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  13
+------------------------------
+
+
+PDI
+----------------------------------------
+Train %  93.64
+Test %  6.36
+------------------------------
+Solutes:  22
+Solvents:  107
+------------------------------
+Solute interpolation:  10
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  11
+------------------------------
+
+
+
+Split 5
+------------------------------------------------------------
+
+
+MN
+----------------------------------------
+Train %  94.39
+Test %  5.61
+------------------------------
+Solutes:  42
+Solvents:  137
+------------------------------
+Solute interpolation:  16
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  14
+------------------------------
+
+
+MW
+----------------------------------------
+Train %  93.2
+Test %  6.8
+------------------------------
+Solutes:  28
+Solvents:  122
+------------------------------
+Solute interpolation:  20
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  13
+------------------------------
+
+
+PDI
+----------------------------------------
+Train %  86.25
+Test %  13.75
+------------------------------
+Solutes:  22
+Solvents:  107
+------------------------------
+Solute interpolation:  20
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  11
+------------------------------
+
+
+
+Split 6
+------------------------------------------------------------
+
+
+MN
+----------------------------------------
+Train %  86.77
+Test %  13.23
+------------------------------
+Solutes:  42
+Solvents:  137
+------------------------------
+Solute interpolation:  31
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  14
+------------------------------
+
+
+MW
+----------------------------------------
+Train %  83.79
+Test %  16.21
+------------------------------
+Solutes:  28
+Solvents:  122
+------------------------------
+Solute interpolation:  25
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  13
+------------------------------
+
+
+PDI
+----------------------------------------
+Train %  90.28
+Test %  9.72
+------------------------------
+Solutes:  22
+Solvents:  107
+------------------------------
+Solute interpolation:  13
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  11
+------------------------------
+
+
+
+Split 7
+------------------------------------------------------------
+
+
+MN
+----------------------------------------
+Train %  93.09
+Test %  6.91
+------------------------------
+Solutes:  42
+Solvents:  137
+------------------------------
+Solute interpolation:  17
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  14
+------------------------------
+
+
+MW
+----------------------------------------
+Train %  86.57
+Test %  13.43
+------------------------------
+Solutes:  28
+Solvents:  122
+------------------------------
+Solute interpolation:  25
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  13
+------------------------------
+
+
+PDI
+----------------------------------------
+Train %  91.36
+Test %  8.64
+------------------------------
+Solutes:  22
+Solvents:  107
+------------------------------
+Solute interpolation:  13
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  11
+------------------------------
+
+
+
+Split 8
+------------------------------------------------------------
+
+
+MN
+----------------------------------------
+Train %  84.36
+Test %  15.64
+------------------------------
+Solutes:  42
+Solvents:  137
+------------------------------
+Solute interpolation:  32
+Solute extrapolation:  1
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  14
+------------------------------
+
+
+MW
+----------------------------------------
+Train %  93.09
+Test %  6.91
+------------------------------
+Solutes:  28
+Solvents:  122
+------------------------------
+Solute interpolation:  22
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  13
+------------------------------
+
+
+PDI
+----------------------------------------
+Train %  92.38
+Test %  7.62
+------------------------------
+Solutes:  22
+Solvents:  107
+------------------------------
+Solute interpolation:  15
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  11
+------------------------------
+
+
+
+Split 9
+------------------------------------------------------------
+
+
+MN
+----------------------------------------
+Train %  88.51
+Test %  11.49
+------------------------------
+Solutes:  42
+Solvents:  137
+------------------------------
+Solute interpolation:  26
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  14
+------------------------------
+
+
+MW
+----------------------------------------
+Train %  85.2
+Test %  14.8
+------------------------------
+Solutes:  28
+Solvents:  122
+------------------------------
+Solute interpolation:  27
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  13
+------------------------------
+
+
+PDI
+----------------------------------------
+Train %  83.01
+Test %  16.99
+------------------------------
+Solutes:  22
+Solvents:  107
+------------------------------
+Solute interpolation:  21
+Solute extrapolation:  0
+------------------------------
+Solvent interpolation:  0
+Solvent extrapolation:  11
+------------------------------

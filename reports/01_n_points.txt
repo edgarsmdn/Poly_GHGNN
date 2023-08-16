@@ -1,0 +1,18 @@
+============ ****** =================
+MN
+n points  :  2532
+Polymers  :  42
+Solvents  :  137
+% observed:  10.71
+============ ****** =================
+MW
+n points  :  2763
+Polymers  :  28
+Solvents  :  122
+% observed:  16.04
+============ ****** =================
+PDI
+n points  :  1666
+Polymers  :  22
+Solvents  :  107
+% observed:  16.19

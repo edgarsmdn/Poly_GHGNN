@@ -1,0 +1,9 @@
+Solute,MN,MW,MV,Solvent,T1,T2,n_points,MAPE_Entropic-FV_independent,MAPE_UNIFAC-ZM_independent,MAPE_Entropic-FV_dependent,MAPE_UNIFAC-ZM_dependent
+PEO,2000,2180,,butanol,348.2,398.2,3,43,72.7,15.1,39.1
+PEO,10700,11450,,propanol,343.2,393.2,3,31,29.5,4.3,6
+PEO,,,,ethanol,348,393,3,40.4,57.7,7.6,21.2
+PVAc,83400,,,2-propanol,398.2,473.2,4,81.5,58,2.1,13.1
+PS,20000,,,1-propanol,435.5,502.6,4,55,47.3,40.7,35
+PBD,93000,99000,,1-propanol,339.2,369.2,4,15.6,10,17.4,3.8
+PMMA,6107,6412,,methanol,423,473,3,94.7,3.8,78.2,7.1
+PS,20000,,,acetic acid,435.5,502.6,4,46.7,27.4,47,76.2
