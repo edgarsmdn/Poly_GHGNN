@@ -1,7 +1,7 @@
-# A modification of the GH-GNN model for polymer solutions
+# A GH-GNN for the prediction of activity coefficients of polymer solutions at infinite dilution
 
 
-This repository contains the code used in the paper A modification of the Gibbs-Helmholtz Graph Neural Network for predicting activity coefficients at infinite dilution of polymer solutions (under review). 
+This repository contains the code used in the paper A Gibbs-Helmholtz graph neural network for the prediction of activity coefficients of polymer solutions at infinite dilution (under review). 
 
 <img align="center" src="https://github.com/edgarsmdn/Poly_GHGNN/blob/main/media/TOC.png" width="700">
 
