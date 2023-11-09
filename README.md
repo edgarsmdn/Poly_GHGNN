@@ -1,7 +1,7 @@
-# A GH-GNN for the prediction of activity coefficients of polymer solutions at infinite dilution
+# Gibbs–Helmholtz Graph Neural Network for the Prediction of Activity Coefficients of Polymer Solutions at Infinite Dilution
 
 
-This repository contains the code used in the paper A Gibbs-Helmholtz graph neural network for the prediction of activity coefficients of polymer solutions at infinite dilution (under review). 
+This repository contains the code used in the paper [Gibbs–Helmholtz Graph Neural Network for the Prediction of Activity Coefficients of Polymer Solutions at Infinite Dilution](https://doi.org/10.1021/acs.jpca.3c05892). 
 
 <img align="center" src="https://github.com/edgarsmdn/Poly_GHGNN/blob/main/media/TOC.png" width="700">
 
@@ -23,7 +23,17 @@ conda env create -f enviornment.yml
 ## If you use the modified GH-GNN please cite the publication as:
 
 ```
-(under review)
+@article{sanchez_medina_polyGHGNN_2023,
+author = {Sanchez Medina, Edgar Ivan and Kunchapu, Sreekanth and Sundmacher, Kai},
+title = {Gibbs–Helmholtz Graph Neural Network for the Prediction of Activity Coefficients of Polymer Solutions at Infinite Dilution},
+journal = {The Journal of Physical Chemistry A},
+volume = {0},
+number = {0},
+pages = {null},
+year = {0},
+doi = {10.1021/acs.jpca.3c05892},
+URL = {https://doi.org/10.1021/acs.jpca.3c05892}
+}
 ```
 
 ## If you are interested in the original GH-GNN model check [this repo](https://github.com/edgarsmdn/GH-GNN)
